@@ -1,3 +1,6 @@
-[submodule "Project-Potato"]
-	path = Project-Potato
-	url = git@github.com:Shacas/Project-Potato.git
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:Shacas/Project-Potato-Frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:Shacas/Project-Potato-Backend.git
