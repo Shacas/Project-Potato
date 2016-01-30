@@ -4,3 +4,6 @@
 [submodule "Backend"]
 	path = Backend
 	url = git@github.com:Shacas/Project-Potato-Backend.git
+[submodule "Ionic"]
+	path = Ionic
+	url = git@github.com:Shacas/Project-Potato-Ionic.git
